@@ -1,8 +1,8 @@
 bool IsOdd(int);
 
-bool IsPrime(unsigned int);
+bool IsPrime(unsigned int);//true if prime
 
-int Factorial(unsigned int);
+int Factorial(unsigned int);//blabla
 
 int FactorialNoRecursion(unsigned int);
 
